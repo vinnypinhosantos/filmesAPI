@@ -4,7 +4,16 @@ namespace FilmesAPI.Models;
 
 public class Filme
 {
-	
+
+	private int _id;
+
+	public int Id
+	{
+		get { return _id; }
+		set { _id = value; }
+	}
+
+
 	private string _titulo;
     [Required(ErrorMessage = "O título do filme é obrigatório.")]
     public string Titulo
@@ -12,7 +21,6 @@ public class Filme
 		get { return _titulo; }
 		set { _titulo = value; }
 	}
-
 
 	private string _genero;
     [Required(ErrorMessage = "O gênero do filme é obrigatório.")]
@@ -32,7 +40,5 @@ public class Filme
 		get { return _duracao; }
 		set { _duracao = value; }
 	}
-
-
 
 }
