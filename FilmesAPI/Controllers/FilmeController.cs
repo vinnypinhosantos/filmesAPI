@@ -18,7 +18,7 @@ public class FilmeController : ControllerBase
     }
 
     [HttpGet]
-    public List<Filme> RecuperaFilmes()
+    public IEnumerable<Filme> RecuperaFilmes()
     {
         return filmes;
     }
