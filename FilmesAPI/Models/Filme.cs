@@ -6,7 +6,8 @@ public class Filme
 {
 
 	private int _id;
-
+	[Key]
+	[Required]
 	public int Id
 	{
 		get { return _id; }
