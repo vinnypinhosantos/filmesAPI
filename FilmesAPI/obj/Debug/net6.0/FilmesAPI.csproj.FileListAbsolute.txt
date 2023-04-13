@@ -58,3 +58,5 @@ C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesAPI\FilmesAPI\
 C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesApi\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Users\vpinhosantos\Documents\Vinicius\Projetos de Estudo\FilmesApi\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
