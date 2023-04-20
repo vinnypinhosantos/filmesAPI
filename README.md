@@ -1,5 +1,7 @@
 # filmesAPI
 API feita em C#, para consulta, criação e remoção de filmes (CRUD) usando Entity Framework.
+![Swagger-API](https://user-images.githubusercontent.com/76694892/233472146-b12e00c6-2d19-44fd-a199-ce05fa87ca7a.PNG)
+
 
 # API Rest para consulta de filme
 
