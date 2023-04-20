@@ -3,6 +3,8 @@ API feita em C#, para consulta, criação e remoção de filmes (CRUD) usando En
 
 # API Rest para consulta de filme
 
+<br/>
+
 ## 📖  Descrição
 
 Esse é o projeto de uma API Rest para consulta de filmes. Ela possibilita a adição, edição e remoção de filmes.
