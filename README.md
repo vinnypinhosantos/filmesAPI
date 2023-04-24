@@ -39,6 +39,18 @@ Essa API foi desenvolvida em curso da Alura.
 
 <br/>
 
+## :gear: Arquitetura
+
+```🌐
+src
+├── 📂 Controllers      [Rotas para endpoints]
+├── 📂 Data             [Estruturas referentes ao banco de dados]
+│   ├── 📂 DTOs             [Inputs Models e View Models (Data Transfer Objects)]
+├── 📂 Migrations       [Migrations para atualização do Banco]
+├── 📂 Models           [Modelos do banco de dados]
+├── 📂 Profiles         [Perfis para Mapear os Dados]
+```
+
 ## 🔎 Status do Projeto
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
